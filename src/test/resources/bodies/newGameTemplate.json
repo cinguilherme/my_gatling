@@ -1,0 +1,8 @@
+{
+  "id": "${gameId}",
+  "name": "${name}",
+  "reviewScore": "${review}",
+  "releaseDate": "${date}",
+  "category": "${category}",
+  "rating": "${rating}"
+}
